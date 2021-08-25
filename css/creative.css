@@ -56,10 +56,13 @@ html {
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
-  margin: 1rem;
-    padding: 1px;
+
  
 }
+footer, header, section
+{
+   margin: 1rem;
+ padding: 1px;}
 
 body {
   margin: 0;
