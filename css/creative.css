@@ -59,10 +59,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
  
 }
-footer, header, section
-{
-   margin: 1rem;
- padding: 1px;}
+
 
 body {
   margin: 0;
