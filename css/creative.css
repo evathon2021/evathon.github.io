@@ -56,6 +56,9 @@ html {
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
+  margin: 0;
+    padding: 1px;
+ 
 }
 
 body {
